@@ -1,0 +1,1 @@
+Informazione riguardanti il progetto
