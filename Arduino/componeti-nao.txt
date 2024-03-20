@@ -1,0 +1,10 @@
+-arduino nano x2 
+-sensori RFID x2
+-led rossi, verdi x2
+-buzzer attivix2
+-card RFID
+-router
+-power bank
+-pc HP x2 + cavi alimentazione
+-nao blu + cavo alimentazione
+cavi LAN x4
